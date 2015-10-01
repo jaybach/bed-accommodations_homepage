@@ -1,0 +1,95 @@
+html, body {
+  overflow-x: hidden;
+}
+
+header {
+  display: block;
+  height: 50px;
+  width: 100%;
+}
+
+#logo-box {
+  display: inline-block;
+  height: 50px;
+  margin-left: 15px;
+  width: 100px;
+}
+
+#logo {
+  color: rgba(280, 145, 27, 100);
+  margin-top: 16%;
+  text-align: center;
+  -webkit-transform:scale(4, 1);
+}
+
+#nav {
+  float: right;
+  height: 50px;
+  margin-right: 5px;
+}
+
+.browse {
+  float: right;
+  margin-right: 15px;
+  position: relative;
+  top: 30%;
+}
+
+a {
+  color: black;
+  font-family: Verdana;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+body {
+  display: block;
+  margin: auto;
+}
+
+#top {
+  background-image: url('./images/NYC-Skyline.jpg');
+  background-repeat: no-repeat;
+  display: block;
+  height: 530px;
+  width: 100%;
+}
+
+#top-words {
+  font-family: Verdana, sans-serif;
+  padding-top: 150px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px #000000;
+}
+
+h2 {
+  color: rgba(280, 145, 27, 100);
+  font-size: 200%;
+  padding-top: 20px;
+  text-align: center;
+  text-shadow: 0.5px 0.5px #000000;
+  -webkit-transform:scale(1.25,1);
+}
+
+span {
+  font-size: 115%;
+}
+
+#search {
+  height: 30px;
+  margin: 0 auto;
+  width: 736px;
+}
+
+.box {
+  background-color: rgba(0, 0, 0, 0.75);
+  border: 0.75px solid black;
+}
+
+#bottom {
+  height: 50px;
+}

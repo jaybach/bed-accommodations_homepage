@@ -88,6 +88,7 @@ span {
 .box {
   background-color: rgba(0, 0, 0, 0.75);
   border: 0.75px solid black;
+  text-indent: 5px;
 }
 
 #bottom {

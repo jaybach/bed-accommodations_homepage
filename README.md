@@ -2,7 +2,7 @@ bed
 
 bed is a (fake) site for budget travelers who don't always want the cheapest option.  bed let's you search hotels, hostels, B&Bs, airbnb-style accommodations, couchsurfing options, etc. all from one website.
 
-Made from scratch (no bootstrap, etc.).
+Made from scratch (including slogans, etc.; no bootstrap, etc.).
 
 Note:  This site is front end only and is not functional.
 Note:  Only tested on Chrome browser.
